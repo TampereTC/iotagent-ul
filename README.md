@@ -1,4 +1,4 @@
-# IoT Agent for the Ultralight 2.0 protocol
+# IoT Agent for the Ultralight 2.0 protocol, Tampere smart city edition
 
 [![License badge](https://img.shields.io/badge/license-AGPL-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
 [![Documentation badge](https://readthedocs.org/projects/fiware-iotagent-ul/badge/?version=latest)](http://fiware-iotagent-ul.readthedocs.org/en/latest/?badge=latest)
