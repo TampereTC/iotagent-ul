@@ -29,7 +29,7 @@ config.mqtt = {
     /**
      * Host where the MQTT Broker is located.
      */
-    host: 'localhost',
+    host: 'test.mosquitto.org',
 
     /**
      * Port where the MQTT Broker is listening
