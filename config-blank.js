@@ -23,7 +23,7 @@
 var config = {};
 
 config.mqtt = {
-    host: 'mosquitto',
+    host: 'test.mosquitto.org',
     port: 1883
 };
 
