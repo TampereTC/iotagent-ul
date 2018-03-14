@@ -28,7 +28,7 @@ config.http = {
 };
 
 config.mqtt = {
-    host: 'localhost',
+    host: 'test.mosquitto.org',
     port: 1883,
     options: {
         keepalive: 0,
